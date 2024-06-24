@@ -7,11 +7,6 @@ Este projeto carrega um arquivo CSV contendo dados de passageiros do Titanic, ex
 - `full.csv`: Arquivo CSV contendo os dados dos passageiros do Titanic.
 - `script.py`: Script em Python que realiza a extração e análise dos primeiros nomes.
 
-## Requisitos
-
-- Python 3.x
-- Pandas
-
 ## Função Principal
 
 O código contém a função `extrair_primeiro_nome`, que recebe o nome completo de um passageiro e retorna o primeiro nome. A lógica de extração considera diferentes formatos de nome no dataset.
